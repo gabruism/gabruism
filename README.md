@@ -1,7 +1,7 @@
 ### Hi there 👋
 # GABRUISM
 
-Gabruism is a website that presents history of Panjab beautifully...
+Gabruism stores repositories to some of the best websites...
 
 ## URL
 
